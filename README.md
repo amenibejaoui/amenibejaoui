@@ -9,11 +9,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:0EA5E9,100:F472B6&height=220&section=header&text=Ameni%20Bejaoui&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student%20%E2%80%A2%20ENSI&descSize=18&descAlignY=60" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=700&lines=Turning+ideas+into+working+code;Medical+AI+%7C+Computer+Vision+%7C+Deep+Learning;Learning+DevOps%3A+CI%2FCD%2C+Docker%2C+Kubernetes;Open+to+internships+%26+collaborations" alt="Typing SVG" />
-</a>
-
-<br/>
+<h3>🩺 Medical AI &nbsp;•&nbsp;  Python - Java &nbsp;•&nbsp; 🧠 Deep Learning &nbsp;•&nbsp; ⚙️ DevOps</h3>
 
 <a href="https://www.linkedin.com/in/ameni-bejaoui-40b8a6236/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ameni.bejaoui@ensi-uma.tn"><img src="https://img.shields.io/badge/Email-ameni.bejaoui%40ensi--uma.tn-F472B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
