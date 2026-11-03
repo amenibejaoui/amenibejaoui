@@ -54,10 +54,17 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🧩 projetc</h3>
-      <p>>>> booking system of a cinema <<<</p>
-      <p>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-      </p>
+      ## 📖 About
+
+A **terminal-based cinema booking system** in C: create an account, book a movie (city, language, seat type), pay, earn loyalty points and order drinks.
+
+**🛠️ Tools & Concepts**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![GCC](https://img.shields.io/badge/GCC-Compiler-F472B6?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+`structs` · `dynamic memory (malloc/realloc)` · `queue (FIFO)` · `linked list` · `file handling`
       <a href="https://github.com/amenibejaoui/projetc">🔗 View repository</a>
     </td>
     <td width="50%" valign="top">
