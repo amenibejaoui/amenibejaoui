@@ -20,8 +20,6 @@
 
 ## 👋 About Ameni Bejaoui
 
-> *>>> TODO: put a personal one-line motto here, e.g. "Curious by default, rigorous by habit." <<<*
-
 - 🎓 **Computer Science Engineering** student at **ENSI** (University of Manouba, Tunisia)
 - 🔬 I work on **medical image analysis**: skin lesion segmentation with hybrid **CNN + Mamba** architectures
 - 💻 I code mainly in **Python**, **Java** 
