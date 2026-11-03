@@ -16,8 +16,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/ameni-bejaoui-40b8a6236/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ameni.bejaoui@ensi-uma.tn"><img src="https://img.shields.io/badge/Email-Contact%20me-F472B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Status-Open%20to%20internships-22C55E?style=for-the-badge" />
+<a href="mailto:ameni.bejaoui@ensi-uma.tn"><img src="https://img.shields.io/badge/Email-ameni.bejaoui%40ensi--uma.tn-F472B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
