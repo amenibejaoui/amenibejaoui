@@ -27,14 +27,14 @@
 
 ---
 
-## 👋 Hello, I'm Ameni
+## 👋 About Ameni Bejaoui
 
 > *>>> TODO: put a personal one-line motto here, e.g. "Curious by default, rigorous by habit." <<<*
 
 - 🎓 **Computer Science Engineering** student at **ENSI** (University of Manouba, Tunisia)
 - 🔬 I work on **medical image analysis**: skin lesion segmentation with hybrid **CNN + Mamba** architectures
-- 💻 I code mainly in **Python**, **Java** and **C**
-- ⚙️ Currently exploring **DevOps**: CI/CD pipelines, Docker, Kubernetes
+- 💻 I code mainly in **Python**, **Java** and 
+- ⚙️ Currently exploring **DevOps**: CI/CD pipelines, Docker, Kubernetes...
 - 🌱 >>> TODO: one more line about a club / association / role you have <<<
 - 📫 Reach me at **ameni.bejaoui@ensi-uma.tn**
 
