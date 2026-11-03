@@ -68,9 +68,15 @@ A **terminal-based cinema booking system** in C: create an account, book a movie
       <a href="https://github.com/amenibejaoui/projetc">🔗 View repository</a>
     </td>
     <td width="50%" valign="top">
-      <h3>✨ Next project</h3>
-      <p>>>> TODO: add your next project here (a mini AI app, an API, a DevOps pipeline...) <<<</p>
-    </td>
+  <h3>⚡ EV Smart Charging</h3>
+  <p>Multi-agent system (Contract Net) that schedules EV charging to reduce cost and battery degradation, using real Caltech ACN-Data and CAISO prices.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/Multi--Agent-0EA5E9?style=flat-square" />
+  </p>
+  <a href="https://github.com/amenibejaoui/recharge-des-voitures-electriques">🔗 View repository</a>
+</td>
   </tr>
 </table>
 
