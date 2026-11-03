@@ -5,7 +5,7 @@
   Everything marked  >>> TODO <<<  must be edited by you.
 ============================================================= -->
 
-div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:0EA5E9,100:F472B6&height=220&section=header&text=Ameni%20Bejaoui&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student%20%E2%80%A2%20ENSI&descSize=18&descAlignY=60" />
 
