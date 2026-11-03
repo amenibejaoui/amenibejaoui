@@ -5,7 +5,7 @@
   Everything marked  >>> TODO <<<  must be edited by you.
 ============================================================= -->
 
-<div align="center">
+div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:0EA5E9,100:F472B6&height=220&section=header&text=Ameni%20Bejaoui&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student%20%E2%80%A2%20ENSI&descSize=18&descAlignY=60" />
 
@@ -15,13 +15,9 @@
 
 <br/>
 
-<a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/ameni-bejaoui-40b8a6236/)>>>TODO-your-linkedin<<<"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ameni-bejaoui-40b8a6236/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ameni.bejaoui@ensi-uma.tn"><img src="https://img.shields.io/badge/Email-Contact%20me-F472B6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Status-Open%20to%20internships-22C55E?style=for-the-badge" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=amenibejaoui&label=Profile%20views&color=0EA5E9&style=flat" />
 
 </div>
 
@@ -33,7 +29,7 @@
 
 - 🎓 **Computer Science Engineering** student at **ENSI** (University of Manouba, Tunisia)
 - 🔬 I work on **medical image analysis**: skin lesion segmentation with hybrid **CNN + Mamba** architectures
-- 💻 I code mainly in **Python**, **Java** and 
+- 💻 I code mainly in **Python**, **Java** 
 - ⚙️ Currently exploring **DevOps**: CI/CD pipelines, Docker, Kubernetes...
 - 🌱 >>> TODO: one more line about a club / association / role you have <<<
 - 📫 Reach me at **ameni.bejaoui@ensi-uma.tn**
@@ -66,7 +62,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🧩 projetc</h3>
-      <p>>>> TODO: 1 sentence: what does it do? <<<</p>
+      <p>>>> booking system of a cinema <<<</p>
       <p>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
       </p>
@@ -89,17 +85,12 @@
 
 <img src="https://skillicons.dev/icons?i=python,java,c,bash&theme=dark" />
 
-**AI & Data**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,opencv&theme=dark" />
-
 **Tools & DevOps**
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,jenkins,ansible&theme=dark" />
 
 </div>
 
-> 💡 Keep only the icons you really use. Recruiters value an honest stack over a long one.
 
 ---
 
@@ -116,15 +107,6 @@
 
 ---
 
-## 🎯 Currently
-
-| | |
-|---|---|
-| 🔭 **Working on** | Skin lesion segmentation research |
-| 🌱 **Learning** | CI/CD, Docker, Kubernetes |
-| 🤝 **Looking for** | Internships & research collaborations in AI / Software Engineering |
-| 💬 **Ask me about** | Python, Java, medical imaging, deep learning |
-
 ---
 
 <div align="center">
@@ -134,4 +116,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,50:0EA5E9,100:0F172A&height=120&section=footer" />
 
 </div>
+
 
