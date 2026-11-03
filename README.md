@@ -31,7 +31,6 @@
 - 🔬 I work on **medical image analysis**: skin lesion segmentation with hybrid **CNN + Mamba** architectures
 - 💻 I code mainly in **Python**, **Java** 
 - ⚙️ Currently exploring **DevOps**: CI/CD pipelines, Docker, Kubernetes...
-- 🌱 >>> TODO: one more line about a club / association / role you have <<<
 - 📫 Reach me at **ameni.bejaoui@ensi-uma.tn**
 
 ---
